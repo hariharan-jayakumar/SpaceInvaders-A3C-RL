@@ -1,3 +1,8 @@
+## Worked on training agents to play the Space Invaders game using RL agent
+
+Worked on this along with Nihal Das
+
+Our agent was able to replicate the score of 
 
 [23]: https://github.com/dgriff777/a3c_continuous
 
