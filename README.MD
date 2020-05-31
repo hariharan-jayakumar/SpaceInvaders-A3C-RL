@@ -2,7 +2,10 @@
 
 Worked on this along with Nihal Das
 
-Our agent was able to replicate the score of 
+Our main purpose was to replicate the state of the art algorithms developed in Reinforcement Learning and see how they could be used in other use-cases.
+
+Our agent achieved a score of 1000 points.
+
 
 [23]: https://github.com/dgriff777/a3c_continuous
 
