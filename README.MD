@@ -4,8 +4,8 @@ Reinforcement Learning has produced a lot of excitement in the AI community beca
 
 I used this project to learn try my hand at Reinforcement Learning, picking the stock example of training a RL agent to play the Atari Space Invaders game.
 
-## Team-Mate
-
+## Team
+Hariharan Jayakumar
 Nihal Das
 
 ## Important Learnings
